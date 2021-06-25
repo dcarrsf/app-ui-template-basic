@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches its snapshot 1`] = `
+<main
+  className="makeStyles-root-1"
+>
+  <header
+    className="makeStyles-root-2"
+  >
+    User Interface Template
+  </header>
+  <div
+    className="makeStyles-centerAlign-3"
+  >
+    <div>
+      <h1
+        className="MuiTypography-root MuiTypography-h1"
+      >
+        PAGE
+      </h1>
+    </div>
+  </div>
+</main>
+`;
