@@ -1,5 +1,3 @@
-![Screenshot](/src/images/screenshot.jpg)
-
 ## How to get started
 
 Run the following command to install dependencies, then choose a build mode.
